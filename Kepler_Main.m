@@ -57,7 +57,7 @@ end
 
 E_star = E_n;
 
-[count, epsilon_t] = Keplers_Equation_Error(E_star, E_0, e, M);
+[count, epsilon_t] = Kepler_Equation_Error(E_star, E_0, e, M);
 
 %% Plot Newton-Raphson Error.
 
