@@ -1,6 +1,6 @@
 %% The True Error of the Newton - Ralphson Method for Kepler's Equation.
 
-function [count, epsilon_t] = Kepler_Equation_Error(E_star, E_0, e, M)
+function [count, epsilon_t] = Keplers_Equation_Error(E_star, E_0, e, M)
 
 E_n = E_0 - Kepler_Equation(M, E_0, e)/Kepler_Equation_Derivative(e, E_0);
 i = 1;
