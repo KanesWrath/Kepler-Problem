@@ -9,6 +9,6 @@ MATLAB Instructions:
 3) Run the script.
 
 Python Instructions:
-1) Download Keplers_Problem.py and choose the TLE data that you need an input the values in the file.
+1) Download Keplers_Problem.py and choose the TLE data that you need and input the values in the file.
 2) Ensure your central body is the Earth, otherwise you need to change the Gravitational Parameter.
 3) Run the script.
